@@ -1,5 +1,5 @@
 /* Service Worker — يعطي التطبيق القدرة على العمل بدون إنترنت */
-const CACHE  = 'diet-app-v1';
+const CACHE  = 'diet-app-v2';
 const ASSETS = [
   './',
   './index.html',
